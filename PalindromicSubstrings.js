@@ -12,5 +12,5 @@ const countPalindromicSubstrings = (str) => {
 };
 // countPalindromicSubstrings('abcd') - Returns 4 (a, b, c, d)
 
-const output = countPalindromicSubstrings("aaa");
+const output = countPalindromicSubstrings("aaaa");
 console.log(output);
